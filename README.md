@@ -27,7 +27,7 @@ Helps the buider(me) have a profound understanding of HTML and CSS. covers areas
 ## 🖥 Features
 
 - Radio buttons
-- Check boxes.
+- Checkboxes.
 - Inputs
 - Buttons
 - Dropdown Menus
