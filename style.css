@@ -1,0 +1,18 @@
+body {
+  color: white;
+  background-image: linear-gradient(
+      rgba(58, 58, 158, 0.8),
+      rgba(58, 58, 158, 0.8)
+    ),
+    url("assets/images/WhatsApp Image 2026-04-16 at 20.44.15.jpeg");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  min-height: 100vh;
+}
+
+.form {
+  background-color: rgba(27, 27, 50, 0.8);
+  padding: 50px;
+}
