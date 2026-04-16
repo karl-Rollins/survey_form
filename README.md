@@ -38,6 +38,10 @@ Helps the buider(me) have a profound understanding of HTML and CSS. covers areas
 ![css styling](<assets/images/Screenshot from 2026-04-16 22-37-12.png>)
 ![html code](<assets/images/Screenshot from 2026-04-16 22-37-39.png>)
 
+How it looks like
+
+![How page looks like](<assets/images/Screenshot from 2026-04-16 22-56-27.png>)
+
 ## ⚙ Installation & Setup
 
 Clone the repository:
