@@ -1,11 +1,11 @@
 body {
   color: white;
-  background-image: 
-  linear-gradient(
-      rgba(58, 58, 158, 80%),
-      rgba(58, 58, 158, 80%)
-    ),
-  url("assets/images/WhatsApp Image 2026-04-16 at 20.44.15.jpeg");
+  background-image:
+    linear-gradient(
+        rgba(58 58 158 / 80%),
+        rgba(58 58 158 / 80%)
+      ),
+    url("assets/images/WhatsApp Image 2026-04-16 at 20.44.15.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -13,6 +13,6 @@ body {
 }
 
 .form {
-  background-color: rgba(27, 27, 50, 80%);
+  background-color: rgba(27 27 50 / 80%);
   padding: 50px;
 }
