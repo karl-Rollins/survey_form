@@ -35,6 +35,9 @@ Helps the buider(me) have a profound understanding of Html and CSS. covers areas
 
 ## 📷 Screenshots
 
+![css styling](<assets/images/Screenshot from 2026-04-16 22-37-12.png>)
+![html code](<assets/images/Screenshot from 2026-04-16 22-37-39.png>)
+
 ## ⚙ Installation & Setup
 
 Clone the repository:
