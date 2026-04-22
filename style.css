@@ -1,6 +1,6 @@
 body {
   color: white;
-  font-family: "Poppins", sans-serif;
+  font-family: Poppins, sans-serif;
   background-image:
     linear-gradient(rgba(58 58 158 / 80%), rgba(58 58 158 / 80%)),
     url("assets/images/WhatsApp Image 2026-04-16 at 20.44.15.jpeg");
@@ -13,7 +13,7 @@ body {
 .form {
   background-color: rgba(27 27 50 / 80%);
   padding: 50px;
-  line-height: 1.6; 
+  line-height: 1.6;
 }
 
 .btn {
@@ -21,3 +21,4 @@ body {
   background-color: rgb(82 172 82);
   border-radius: 10px;
 }
+
