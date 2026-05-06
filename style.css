@@ -82,10 +82,6 @@ body {
 
   .wrapper {
     /* padding: 50px 100px; */
-    max-width: 100%;
-  }
-
-  .form {
-    padding: 50px;
+    width: 100%;
   }
 }
