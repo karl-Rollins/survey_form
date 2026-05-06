@@ -7,7 +7,20 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+  background-attachment: fixed;
   min-height: 100vh;
+}
+
+.title {
+  text-align: center;
+}
+
+.title h1 {
+  margin-bottom: 0;
+}
+
+.title p {
+  margin-top: 0;
 }
 
 .form {
@@ -20,4 +33,36 @@ body {
   color: white;
   background-color: rgb(82 172 82);
   border-radius: 10px;
+}
+
+.wrapper {
+  padding: 50px 450px;
+  display: flex;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+@media all and (max-width: 600px) {
+  .wrapper {
+    padding: 10px 50px;
+    width: 100%;
+  }
+
+  body {
+    background-size: contain;
+  }
+
+  .form {
+    display: block;
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    background-size: cover;
+  }
+
+  .wrapper {
+    padding: 50px 100px;
+  }
 }
