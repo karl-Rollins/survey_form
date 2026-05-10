@@ -1,21 +1,21 @@
 # 🏷 Project Name
 
-Survey_form: a replica of a page from the website "freeCodeCamp" using Html and CSS
+Survey_form: a replica of a page from the site "freeCodeCamp" using HTML and CSS
 
 ## 📌 Problem Statement
 
-Many developers these days use AI in building webpages. This project helps us have a better understanding of html and css, what each line of code does to what the user sees.
+Many developers these days use AI in building web pages. This project helps us have a better understanding of HTML and CSS, what each line of code does to what the user sees.
 
 ## 🎯 Project Goals
 
-Helps the buider(me) have a profound understanding of Html and CSS. covers areas like
+Helps the buider(me) have a profound understanding of HTML and CSS. covers areas like
 
 - Forms
 - Inserting images.
 - Styling (colors, margins, padding)
 - Buttons
 - Radio buttons
-- Check boxes.
+- Checkboxes.
 
 ## 🛠 Tech Stack
 
@@ -27,13 +27,20 @@ Helps the buider(me) have a profound understanding of Html and CSS. covers areas
 ## 🖥 Features
 
 - Radio buttons
-- Check boxes.
+- Checkboxes.
 - Inputs
 - Buttons
 - Dropdown Menus
 - Comment Box
 
 ## 📷 Screenshots
+
+![css styling](<assets/images/Screenshot from 2026-04-16 22-37-12.png>)
+![html code](<assets/images/Screenshot from 2026-04-16 22-37-39.png>)
+
+How it looks like
+
+![How page looks like](<assets/images/Screenshot from 2026-04-16 22-56-27.png>)
 
 ## ⚙ Installation & Setup
 
@@ -54,11 +61,11 @@ cd survey_form
 
 📚 What I Learned
 
-How to structure a front-end application
+How to structure a frontend application
 
 Future Improvements
 
-Avoid styling in the html file and do every styling in css to avoid bulky codes and make format neat.
+Avoid styling in the HTML file and do every styling in CSS to avoid bulky codes and make format neat.
 
 👨🏽‍💻 Author
 
